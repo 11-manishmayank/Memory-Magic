@@ -1,2 +1,2 @@
 # Memory-Magic
-It is Memory based game which is made by using React JS 
+It is RECALLING based game which is made by using React JS 
